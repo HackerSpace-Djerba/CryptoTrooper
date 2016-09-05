@@ -39,7 +39,7 @@ Purposes :
 
 ##How to
 
-*DO NOT RUN IT ON YOUR OWN PC! USE VIRTUAL MACHINE*
+**DO NOT RUN IT ON YOUR OWN PC! USE VIRTUAL MACHINE**
 
 *Prepare environment*
 ```bash
